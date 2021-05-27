@@ -1,1 +1,1 @@
-# get-post-method
+# get-post-delete method
